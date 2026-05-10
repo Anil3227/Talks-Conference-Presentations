@@ -1,7 +1,7 @@
 # Talks and Presentations
 
 This repository contains selected seminar and lecture slides
-by Anil Kandel in cosmology and theoretical physics.
+ in cosmology.
 
 Topics include:
 - Dark Energy and ΛCDM challenges
